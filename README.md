@@ -22,19 +22,18 @@ Nerd when it comes to coding and Software Things .....
 ![LeetCode Stats](https://leetcard.jacoblin.cool/TlsJ3PsQoE?theme=dark&font=Baloo%202&ext=heatmap)
 
 ---
-
-
 ## 📊 GitHub Stats:
-
 <div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=Itz-Ehthasham&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Itz-Ehthasham&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&cache_seconds=21600" />
+![](https://nirzak-streak-stats.vercel.app/?user=Itz-Ehthasham&theme=blue_navy&hide_border=false)
 
-<img src="https://streak-stats.demolab.com?user=Itz-Ehthasham&theme=github-dark&cache_seconds=21600" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Ehthasham&layout=compact&theme=github_dark&cache_seconds=21600" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Ehthasham&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
+
+---
 
 
 ## 🚀 Featured Projects
