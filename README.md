@@ -2,8 +2,10 @@
 👋 Hi, I'm **Ehthasham Mustafa**
 
 I am a Full Stack AI/ML Engineer with experience in building end-to-end applications that combine modern web technologies with machine learning models.
+I pay close attention to details, thoroughly scan screens and code.
+Nerd when it comes to coding and Software Things .....
 
-*Just saying, I didn't use ChatGPT to write this description.*
+* I didn't use ChatGPT to write this description.*
 
 ---
 
