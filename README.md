@@ -22,6 +22,21 @@
 Below are the projects showcased on this portfolio. Click a screenshot to open the live demo (if available) or the GitHub repo. Images reference files inside the `assets/projects-screenshots/` folder so they will render on GitHub once pushed.
 
 ---
+### ChatGPT Clone 🤖
+- **Description:** ChatGPT-like chatbot with responsive UI and auth flows.
+- **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind
+- **Live Demo:** https://chatbot-chi-rouge.vercel.app/
+- **GitHub:** https://github.com/Itz-Ehthasham/ChatGpt
+- **Features:** Interactive chat UI, authentication (signup/login/OTP)
+
+<p align="left">
+  <a href="https://chatbot-chi-rouge.vercel.app/" target="_blank" rel="noopener">
+    <img src="./assets/projects-screenshots/ChatGpt_Clone/home1.PNG" alt="ChatGPT Clone" width="220" style="border-radius:8px; margin-right:6px;" />
+  </a>
+  <a href="https://chatbot-chi-rouge.vercel.app/" target="_blank" rel="noopener">
+    <img src="./assets/projects-screenshots/ChatGpt_Clone/chat1.PNG" alt="ChatGPT Clone chat" width="220" style="border-radius:8px;" />
+  </a>
+</p>
 
 ### AI-Dev-Web 🧠
 - **Description:** Developers who build AI — showcasing projects that push the boundaries of AI, ML, and modern web development excellence.
@@ -157,21 +172,6 @@ Below are the projects showcased on this portfolio. Click a screenshot to open t
 
 ---
 
-### ChatGPT Clone 🤖
-- **Description:** ChatGPT-like chatbot with responsive UI and auth flows.
-- **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind
-- **Live Demo:** https://chatbot-chi-rouge.vercel.app/
-- **GitHub:** https://github.com/Itz-Ehthasham/ChatGpt
-- **Features:** Interactive chat UI, authentication (signup/login/OTP)
-
-<p align="left">
-  <a href="https://chatbot-chi-rouge.vercel.app/" target="_blank" rel="noopener">
-    <img src="./assets/projects-screenshots/ChatGpt_Clone/home1.PNG" alt="ChatGPT Clone" width="220" style="border-radius:8px; margin-right:6px;" />
-  </a>
-  <a href="https://chatbot-chi-rouge.vercel.app/" target="_blank" rel="noopener">
-    <img src="./assets/projects-screenshots/ChatGpt_Clone/chat1.PNG" alt="ChatGPT Clone chat" width="220" style="border-radius:8px;" />
-  </a>
-</p>
 
 ---
 
@@ -190,5 +190,20 @@ Below are the projects showcased on this portfolio. Click a screenshot to open t
     <img src="./assets/projects-screenshots/Password_generator/history.PNG" alt="Password Generator history" width="220" style="border-radius:8px;" />
   </a>
 </p>
+
+---
+
+### Interactive Gallery 🎞️
+Open the interactive, infinite horizontal gallery of all project screenshots (hover to slow it down):
+
+[Open gallery (interactive demo)](./assets/projects-screenshots/gallery.html)
+
+<p align="left">
+  <a href="./assets/projects-screenshots/gallery.html" target="_blank" rel="noopener">
+    <img src="./assets/projects-screenshots/AI-dev-web/home.PNG" alt="Gallery preview" width="660" style="border-radius:8px; margin-top:12px;" />
+  </a>
+</p>
+
+> **Note:** GitHub's README pages do not execute JavaScript for security reasons. Open the linked `gallery.html` file in your browser or serve the repository (or deploy via GitHub Pages) to see the animated infinite scroll with hover slowdown.
 
 
