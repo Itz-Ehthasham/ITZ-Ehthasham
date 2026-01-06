@@ -19,7 +19,7 @@
 
 ## 📚 Projects
 
-Below are the projects showcased on this portfolio. Click a screenshot to open the live demo (if available) or the GitHub repo. Images reference files inside the `public/assets/projects-screenshots/` folder so they will render on GitHub once pushed.
+Below are the projects showcased on this portfolio. Click a screenshot to open the live demo (if available) or the GitHub repo. Images reference files inside the `assets/projects-screenshots/` folder so they will render on GitHub once pushed.
 
 ---
 
@@ -32,13 +32,13 @@ Below are the projects showcased on this portfolio. Click a screenshot to open t
 
 <p align="left">
   <a href="https://ai-dev-seven.vercel.app/" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/AI-dev-web/home.PNG" alt="AI-Dev-Web home" width="220" style="border-radius:8px; margin-right:6px;" />
+    <img src="./assets/projects-screenshots/AI-dev-web/home.PNG" alt="AI-Dev-Web home" width="220" style="border-radius:8px; margin-right:6px;" />
   </a>
   <a href="https://ai-dev-seven.vercel.app/" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/AI-dev-web/service.PNG" alt="AI-Dev-Web service" width="220" style="border-radius:8px; margin-right:6px;" />
+    <img src="./assets/projects-screenshots/AI-dev-web/service.PNG" alt="AI-Dev-Web service" width="220" style="border-radius:8px; margin-right:6px;" />
   </a>
   <a href="https://ai-dev-seven.vercel.app/" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/AI-dev-web/portfolio.PNG" alt="AI-Dev-Web portfolio" width="220" style="border-radius:8px;" />
+    <img src="./assets/projects-screenshots/AI-dev-web/portfolio.PNG" alt="AI-Dev-Web portfolio" width="220" style="border-radius:8px;" />
   </a>
 </p>
 
@@ -53,13 +53,13 @@ Below are the projects showcased on this portfolio. Click a screenshot to open t
 
 <p align="left">
   <a href="https://expo.dev/accounts/ehthasham/projects/homenza/builds/cac13d3b-2e96-4a09-90d4-216d612ce0b1" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/Homenza/profile-pic.png" alt="Homenza" width="220" style="border-radius:8px; margin-right:6px;" />
+    <img src="./assets/projects-screenshots/Homenza/profile-pic.png" alt="Homenza" width="220" style="border-radius:8px; margin-right:6px;" />
   </a>
   <a href="https://expo.dev/accounts/ehthasham/projects/homenza/builds/cac13d3b-2e96-4a09-90d4-216d612ce0b1" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/Homenza/home.jpg" alt="Homenza home" width="220" style="border-radius:8px; margin-right:6px;" />
+    <img src="./assets/projects-screenshots/Homenza/home.jpg" alt="Homenza home" width="220" style="border-radius:8px; margin-right:6px;" />
   </a>
   <a href="https://expo.dev/accounts/ehthasham/projects/homenza/builds/cac13d3b-2e96-4a09-90d4-216d612ce0b1" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/Homenza/explore.jpg" alt="Homenza explore" width="220" style="border-radius:8px;" />
+    <img src="./assets/projects-screenshots/Homenza/explore.jpg" alt="Homenza explore" width="220" style="border-radius:8px;" />
   </a>
 </p>
 
@@ -74,10 +74,10 @@ Below are the projects showcased on this portfolio. Click a screenshot to open t
 
 <p align="left">
   <a href="https://github.com/Itz-Ehthasham/Fit-Neek" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/fitneek/profile-pic.png" alt="Fit-Neek" width="220" style="border-radius:8px; margin-right:6px;" />
+    <img src="./assets/projects-screenshots/fitneek/profile-pic.png" alt="Fit-Neek" width="220" style="border-radius:8px; margin-right:6px;" />
   </a>
   <a href="https://github.com/Itz-Ehthasham/Fit-Neek" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/fitneek/Sign-up.PNG" alt="Fit-Neek signup" width="220" style="border-radius:8px;" />
+    <img src="./assets/projects-screenshots/fitneek/Sign-up.PNG" alt="Fit-Neek signup" width="220" style="border-radius:8px;" />
   </a>
 </p>
 
@@ -92,13 +92,13 @@ Below are the projects showcased on this portfolio. Click a screenshot to open t
 
 <p align="left">
   <a href="https://github.com/Itz-Ehthasham/Hybrid_learning_Prediction" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/hybrid%20learning/home.jpg" alt="Hybrid Learning home" width="220" style="border-radius:8px; margin-right:6px;" />
+    <img src="./assets/projects-screenshots/hybrid%20learning/home.jpg" alt="Hybrid Learning home" width="220" style="border-radius:8px; margin-right:6px;" />
   </a>
   <a href="https://github.com/Itz-Ehthasham/Hybrid_learning_Prediction" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/hybrid%20learning/login.jpg" alt="Hybrid Learning login" width="220" style="border-radius:8px;" />
+    <img src="./assets/projects-screenshots/hybrid%20learning/login.jpg" alt="Hybrid Learning login" width="220" style="border-radius:8px;" />
   </a>
   <a href="https://github.com/Itz-Ehthasham/Hybrid_learning_Prediction" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/hybrid%20learning/identify.jpg" alt="Hybrid Learning identify" width="220" style="border-radius:8px;" />
+    <img src="./assets/projects-screenshots/hybrid%20learning/identify.jpg" alt="Hybrid Learning identify" width="220" style="border-radius:8px;" />
   </a>
 </p>
 
@@ -112,10 +112,10 @@ Below are the projects showcased on this portfolio. Click a screenshot to open t
 
 <p align="left">
   <a href="https://github.com/Itz-Ehthasham/-Project-Task--Management" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/Project-management/home.PNG" alt="Project Management" width="220" style="border-radius:8px; margin-right:6px;" />
+    <img src="./assets/projects-screenshots/Project-management/home.PNG" alt="Project Management" width="220" style="border-radius:8px; margin-right:6px;" />
   </a>
   <a href="https://github.com/Itz-Ehthasham/-Project-Task--Management" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/Project-management/task-add.PNG" alt="Project Management task add" width="220" style="border-radius:8px;" />
+    <img src="./assets/projects-screenshots/Project-management/task-add.PNG" alt="Project Management task add" width="220" style="border-radius:8px;" />
   </a>
 </p>
 
@@ -130,10 +130,10 @@ Below are the projects showcased on this portfolio. Click a screenshot to open t
 
 <p align="left">
   <a href="https://blog-app-smoky-nine.vercel.app/blogs" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/Blog_app/Home.PNG" alt="Blog App home" width="220" style="border-radius:8px; margin-right:6px;" />
+    <img src="./assets/projects-screenshots/Blog_app/Home.PNG" alt="Blog App home" width="220" style="border-radius:8px; margin-right:6px;" />
   </a>
   <a href="https://blog-app-smoky-nine.vercel.app/blogs" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/Blog_app/add_blog.PNG" alt="Blog App add blog" width="220" style="border-radius:8px;" />
+    <img src="./assets/projects-screenshots/Blog_app/add_blog.PNG" alt="Blog App add blog" width="220" style="border-radius:8px;" />
   </a>
 </p>
 
@@ -148,10 +148,10 @@ Below are the projects showcased on this portfolio. Click a screenshot to open t
 
 <p align="left">
   <a href="https://hedamo.up.railway.app/" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/Hedamo/Home.PNG" alt="Hedamo home" width="220" style="border-radius:8px; margin-right:6px;" />
+    <img src="./assets/projects-screenshots/Hedamo/Home.PNG" alt="Hedamo home" width="220" style="border-radius:8px; margin-right:6px;" />
   </a>
   <a href="https://hedamo.up.railway.app/" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/Hedamo/product-report.PNG" alt="Hedamo report" width="220" style="border-radius:8px;" />
+    <img src="./assets/projects-screenshots/Hedamo/product-report.PNG" alt="Hedamo report" width="220" style="border-radius:8px;" />
   </a>
 </p>
 
@@ -166,10 +166,10 @@ Below are the projects showcased on this portfolio. Click a screenshot to open t
 
 <p align="left">
   <a href="https://chatbot-chi-rouge.vercel.app/" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/ChatGpt_Clone/home1.PNG" alt="ChatGPT Clone" width="220" style="border-radius:8px; margin-right:6px;" />
+    <img src="./assets/projects-screenshots/ChatGpt_Clone/home1.PNG" alt="ChatGPT Clone" width="220" style="border-radius:8px; margin-right:6px;" />
   </a>
   <a href="https://chatbot-chi-rouge.vercel.app/" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/ChatGpt_Clone/chat1.PNG" alt="ChatGPT Clone chat" width="220" style="border-radius:8px;" />
+    <img src="./assets/projects-screenshots/ChatGpt_Clone/chat1.PNG" alt="ChatGPT Clone chat" width="220" style="border-radius:8px;" />
   </a>
 </p>
 
@@ -184,10 +184,10 @@ Below are the projects showcased on this portfolio. Click a screenshot to open t
 
 <p align="left">
   <a href="https://password-generator-gamma-blond-24.vercel.app/" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/Password_generator/home.PNG" alt="Password Generator" width="220" style="border-radius:8px; margin-right:6px;" />
+    <img src="./assets/projects-screenshots/Password_generator/home.PNG" alt="Password Generator" width="220" style="border-radius:8px; margin-right:6px;" />
   </a>
   <a href="https://password-generator-gamma-blond-24.vercel.app/" target="_blank" rel="noopener">
-    <img src="./public/assets/projects-screenshots/Password_generator/history.PNG" alt="Password Generator history" width="220" style="border-radius:8px;" />
+    <img src="./assets/projects-screenshots/Password_generator/history.PNG" alt="Password Generator history" width="220" style="border-radius:8px;" />
   </a>
 </p>
 
