@@ -18,12 +18,12 @@ Nerd when it comes to coding and Software Things .....
 
 ---
 
-## 🔥 LeetCode Stats:
+## 🔥 LeetCode Statistics:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/TlsJ3PsQoE?theme=dark&font=Baloo%202&ext=heatmap)
 
 
 ---
-## 📊 GitHub Stats:
+## 📊 GitHub Statistics:
 
 ![](https://github-readme-stats.vercel.app/api?username=Itz-Ehthasham&show_icons=true&theme=tokyonight)
 
