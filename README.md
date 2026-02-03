@@ -22,16 +22,7 @@ Nerd when it comes to coding and Software Things .....
 ![LeetCode Stats](https://leetcard.jacoblin.cool/TlsJ3PsQoE?theme=dark&font=Baloo%202&ext=heatmap)
 
 
----
-## 📊 GitHub Statistics:
 
-![](https://github-readme-stats.vercel.app/api?username=Itz-Ehthasham&show_icons=true&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=Itz-Ehthasham&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Ehthasham&layout=compact&theme=tokyonight)
-
----
 
 <div align="center">
   
