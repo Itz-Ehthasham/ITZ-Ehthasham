@@ -5,7 +5,7 @@ I am a Full Stack AI/ML and Devops Engineer with experience in building end-to-e
 I pay close attention to details, thoroughly scan screens and code.
 Nerd when it comes to coding and Software Things .....
 
-* I didn't use ChatGPT to write this description.
+* I didn't use ChatGPT to write this description :)
 
 ---
 
