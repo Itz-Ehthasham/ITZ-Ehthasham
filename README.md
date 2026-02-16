@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm **Ehthasham Mustafa**
 
-I am a Full Stack AI/ML and Devops Engineer with experience in building end-to-end applications that combine modern web technologies with machine learning models.
+I am a Full Stack AI/ML and Devops Cloud Engineer with experience in building end-to-end applications that combine modern web technologies with machine learning models.
 I pay close attention to details, thoroughly scan screens and code.
 Nerd when it comes to coding and Software Things .....
 
