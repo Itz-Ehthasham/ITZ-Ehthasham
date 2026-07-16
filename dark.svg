@@ -124,21 +124,13 @@
         <g opacity="0" transform="translate(0 0)">
           <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.2s" fill="freeze"/>
           <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="5.5s" repeatCount="indefinite" additive="sum"/>
-          <text x="112" y="204" fill="url(#asciiGrad)" font-family="Consolas, 'Cascadia Code', monospace" font-size="18" letter-spacing="1.2">
-            <tspan x="112" dy="0">      .-.</tspan>
-            <tspan x="112" dy="24">    .'   '.</tspan>
-            <tspan x="112" dy="24">   /  .-.  \</tspan>
-            <tspan x="112" dy="24">  |  (   )  |</tspan>
-            <tspan x="112" dy="24">   \  `-'  /</tspan>
-            <tspan x="112" dy="24">    '.___.' </tspan>
-            <tspan x="112" dy="24">   /  /|\  \</tspan>
-            <tspan x="112" dy="24">  /__/ | \__\</tspan>
-            <tspan x="112" dy="24">      /_/</tspan>
-          </text>
-          <text x="112" y="432" fill="#22d3ee" font-family="Consolas, 'Cascadia Code', monospace" font-size="16" opacity="0.9">// cyber interface</text>
-          <text x="112" y="458" fill="#93c5fd" font-family="Consolas, 'Cascadia Code', monospace" font-size="16" opacity="0.9">// stable / adaptive / curious</text>
+          <rect x="112" y="182" width="280" height="200" rx="14" fill="#0f172a" fill-opacity="0.75"/>
+          <image x="112" y="182" width="280" height="200" preserveAspectRatio="xMidYMid slice" href="https://raw.githubusercontent.com/Itz-Ehthasham/ITZ-Ehthasham/new/assets/projects-screenshots/Project-management/profile-pic.png"/>
+          <rect x="112" y="182" width="280" height="200" fill="none" stroke="#22d3ee" stroke-opacity="0.25" stroke-width="1.2" rx="14"/>
+          <rect x="112" y="182" width="280" height="36" fill="#020617" fill-opacity="0.65"/>
+          <text x="128" y="206" fill="#e2e8f0" font-family="Segoe UI, Inter, Arial" font-size="13" letter-spacing="1.2">PORTFOLIO MODE</text>
+          <text x="128" y="226" fill="#67e8f9" font-family="Consolas, 'Cascadia Code', monospace" font-size="12">// developer / builder / explorer</text>
         </g>
-        <rect x="112" y="182" width="280" height="200" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1" rx="12"/>
       </g>
     </g>
 
@@ -167,7 +159,7 @@
         <text x="580" y="378" fill="#94a3b8" font-family="Segoe UI, Inter, Arial" font-size="15">Location</text>
         <text x="730" y="378" fill="#f8fafc" font-family="Segoe UI, Inter, Arial" font-size="15">Hyderabad, India</text>
         <text x="580" y="410" fill="#94a3b8" font-family="Segoe UI, Inter, Arial" font-size="15">Education</text>
-        <text x="730" y="410" fill="#f8fafc" font-family="Segoe UI, Inter, Arial" font-size="15">BS Software Engineering</text>
+        <text x="730" y="410" fill="#f8fafc" font-family="Segoe UI, Inter, Arial" font-size="15">BTech Computer Science</text>
         <text x="580" y="442" fill="#94a3b8" font-family="Segoe UI, Inter, Arial" font-size="15">Current Focus</text>
         <text x="730" y="442" fill="#f8fafc" font-family="Segoe UI, Inter, Arial" font-size="15">Full-stack products &amp; AI</text>
         <text x="580" y="474" fill="#94a3b8" font-family="Segoe UI, Inter, Arial" font-size="15">Portfolio</text>
