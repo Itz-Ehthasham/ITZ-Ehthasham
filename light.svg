@@ -165,7 +165,7 @@
       <g opacity="0" transform="translate(0 0)">
         <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.8s" fill="freeze"/>
         <text x="580" y="378" fill="#64748b" font-family="Segoe UI, Inter, Arial" font-size="15">Location</text>
-        <text x="730" y="378" fill="#0f172a" font-family="Segoe UI, Inter, Arial" font-size="15">Islamabad, Pakistan</text>
+        <text x="730" y="378" fill="#0f172a" font-family="Segoe UI, Inter, Arial" font-size="15">Hyderabad, India</text>
         <text x="580" y="410" fill="#64748b" font-family="Segoe UI, Inter, Arial" font-size="15">Education</text>
         <text x="730" y="410" fill="#0f172a" font-family="Segoe UI, Inter, Arial" font-size="15">BS Software Engineering</text>
         <text x="580" y="442" fill="#64748b" font-family="Segoe UI, Inter, Arial" font-size="15">Current Focus</text>
