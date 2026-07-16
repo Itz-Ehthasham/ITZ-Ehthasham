@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itz-Ehthasham/ITZ-Ehthasham-1/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itz-Ehthasham/ITZ-Ehthasham-1/main/light.svg">
+    <img alt="Ehthasham Mustafa profile banner" src="https://raw.githubusercontent.com/Itz-Ehthasham/ITZ-Ehthasham-1/main/dark.svg">
+  </picture>
+</p>
+
 # 💫 About Me:
 👋 Hi, I'm **Ehthasham Mustafa**
 
